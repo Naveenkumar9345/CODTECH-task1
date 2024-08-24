@@ -1,7 +1,7 @@
 # CODTECH-task1
 Name: D Naveen kumar<br>
 Company: CODTECHIT SOLUTIONS<br>
-ID      :  CT6WDS1313<br>
+ID      :  CT6WDS1360<br>
 Dmain: Front-end development<br>
 Dmain: FRONTEND WEB DEVELOPMENT<br>
 Duration: July to August 2024.<br>
